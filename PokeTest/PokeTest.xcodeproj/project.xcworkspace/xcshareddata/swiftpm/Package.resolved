@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "44e891bdb61426a95e31492a67c7c0dfad1f87c5"
+      }
+    },
+    {
+      "identity" : "pokemonapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kinkofer/PokemonAPI",
+      "state" : {
+        "revision" : "dfb4cfbf5f91798a5c37b031b913e21a74a06289",
+        "version" : "6.1.1"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "318cca556b0489aede0cd98d8d0c7f1408ab7bd6",
+        "version" : "5.13.5"
+      }
+    },
+    {
+      "identity" : "sdwebimageswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI",
+      "state" : {
+        "branch" : "master",
+        "revision" : "ed288667c909c89127ab1b690113a3e397af3098"
+      }
+    }
+  ],
+  "version" : 2
+}
