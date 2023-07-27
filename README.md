@@ -12,7 +12,7 @@ PokeTest is a Pokedex app built for iOS that allows users to explore and discove
 
 - **Intuitive User Interface:** Enjoy a user-friendly interface with easy navigation.
 
-###Screens
+### Screens
 Screen 1: Pokemon List
 
 The Pokemon List screen is the main page of the app, where users can browse through the 649 Pokemon from the 5th Generation. The list is presented in a user-friendly format, allowing users to quickly scroll and find their favorite Pokemon. Additionally, a search bar is provided at the top, enabling users to search for specific Pokemon with ease.
@@ -88,5 +88,4 @@ This app is for educational purposes and serves as a demonstration of building a
 The Pokemon data provided by this app is fetched from a third-party Pokemon API, and the app developer does not guarantee the accuracy or reliability of the data. Use it at your own risk.
 
 Happy exploring! 🕵️‍♂️🔍🌟🔥
-<img width="1440" alt="Capture d’écran 2022-10-31 à 15 56 08" src="https://user-images.githubusercontent.com/69274926/199039344-df79189c-47e7-4268-8375-1caa02b4e4ea.png">
-<img width="1440" alt="Capture d’écran 2022-10-31 à 15 56 59" src="https://user-images.githubusercontent.com/69274926/199039369-3282545e-fb55-4c86-ae40-550a0bf20f18.png">
+
